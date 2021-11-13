@@ -126,7 +126,7 @@
 
 (setq org-roam-directory "~/Dropbox/notes")
 
-(setq insert-esv-crossway-api-key "6d222046d13872627d6653c6325934474dfbd46f")
+(setq insert-esv-crossway-api-key "INSERT-YOUR-API-KEY")
 (setq insert-esv-include-short-copyright 'true)
 (setq insert-esv-include-verse-numbers 'true)
 (setq insert-esv-include-headings 'true)
